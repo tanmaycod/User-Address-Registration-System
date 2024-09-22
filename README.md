@@ -24,7 +24,7 @@ This project is a web application that allows users to register their names and 
 
 ## Installation
 - Clone the repository:
-https://github.com/tanmaycod/user-address-backend.git
+  https://github.com/tanmaycod/User-Address-Registration-System.git
 - Install dependencies: npm install
 - Start MongoDB (if not already running): mongod
 - Run the server: node app.js
